@@ -38,4 +38,3 @@ eleccion()
 
 
 
-function 
